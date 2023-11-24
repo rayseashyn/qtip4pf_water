@@ -1,0 +1,14 @@
+n_beads 1
+T_K 298.0
+epsilon_sc 0.00001
+n_cell_x 4
+n_cell_y 4
+n_cell_z 4
+rho_inp 0.997
+dtfs 0.2
+eps_ewald 0.000001
+n_equil 90000
+n_samp 100000
+is_spline 0
+cell_type fcc
+from_file yes/no filename_if_yes
